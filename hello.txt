@@ -1,1 +1,2 @@
-This is the first change to my hello file
+This is the first change to my hello file.
+This is the second change to my hello file. It's a longer change.
