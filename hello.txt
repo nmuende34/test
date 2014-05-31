@@ -1,2 +1,2 @@
-This is the first change to my hello file
+This is a big change to first line.
 This is after a revert, now I'm branching
